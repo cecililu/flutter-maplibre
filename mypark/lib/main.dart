@@ -22,6 +22,8 @@ class MyApp extends StatelessWidget {
         '/profile': (context) => ProfilePage(),
         '/home':(context)=>HomePage()
       },
+
+      
     );
   }
 }
